@@ -1,0 +1,12 @@
+#h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 4px 2px 2px black;
+    font-size: 350px;
+}
+
+body {
+    background-color: rgb(255, 0, 0);
+}
+
+/* Usamos #body para id no html e .body para class */
